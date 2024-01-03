@@ -1,1 +1,1 @@
-# trending-learning-resources
+# Trending Learning Resources
