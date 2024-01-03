@@ -31,25 +31,29 @@
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/d4fa3d92-452e-4bd2-9280-9f408a2924b7">
 
-8. [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
+8. [MS-012 Prepare your organization for Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/paths/prepare-your-organization-microsoft-365-copilot/)
+   <br>
+   <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/60244ae1-2aeb-4196-94af-37ddbe72b2e7">
+
+9. [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/78d6b0b5-157e-4d5e-a948-90cc43bd3003">
 
-9. [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+10. [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/01790eb9-4796-4777-8063-44fe3124e249">
 
-10. [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners)
+11. [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners)
     <br>
      <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/a9c71758-8f85-400f-8011-d6bb4e8ae12a">
-11. [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
+12. [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/409db1a0-9828-4554-a528-986bc2085819">
-12. [Bash for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
+13. [Bash for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/2e66d60a-fb48-4b8e-9849-d2ec35155b3b">
 
-13. [Microsoft Virtual Training Day](https://events.microsoft.com/)
+14. [Microsoft Virtual Training Day](https://events.microsoft.com/)
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/577f59a0-6376-46ef-aca3-e5d4e11cc4d9">
 
