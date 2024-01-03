@@ -57,7 +57,7 @@
 _Last updated 3rd Jan 2024_
 
 <img width="150" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/278b9df5-8e3f-4fd6-82d8-3e6761979a83">
-<br></br>
+
 Connect with me on LinkedIn 
 📌https://www.linkedin.com/in/vincekok/
 
