@@ -1,4 +1,4 @@
-# Trending Learning Resources
+## Trending Learning Resources
 
 1. [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
    <br>
@@ -23,27 +23,36 @@
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/7f1e6424-eac7-41ec-ac92-f17172bddebe">
    <br>
    🔥[Mindmap](https://www.linkedin.com/feed/update/urn:li:activity:7147841004509814784/)
-6. [Introduction to Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/)
+6. [AI Kick-Off Projects](https://learn.microsoft.com/en-gb/collections/wp3ec12803x1pq?WT.mc_id=academic-105496-cacaste)
+   <br>
+    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/e1d52988-17ca-4b85-90d9-3c7491093268">
+    
+7. [Introduction to Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/)
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/d4fa3d92-452e-4bd2-9280-9f408a2924b7">
-   
-7. [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
+
+8. [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/78d6b0b5-157e-4d5e-a948-90cc43bd3003">
 
-8. [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+9. [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
    <br>
    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/01790eb9-4796-4777-8063-44fe3124e249">
 
-9. [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners)
+10. [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/ai-for-beginners)
     <br>
      <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/a9c71758-8f85-400f-8011-d6bb4e8ae12a">
-10. [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
+11. [IoT for Beginners - A Curriculum](https://github.com/microsoft/IoT-For-Beginners)
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/409db1a0-9828-4554-a528-986bc2085819">
-11. [Bash for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
+12. [Bash for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/2e66d60a-fb48-4b8e-9849-d2ec35155b3b">
+
+_Last updated 3rd Jan 2024_
+
+<img width="150" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/278b9df5-8e3f-4fd6-82d8-3e6761979a83">
+[Connect with me on LinkedIn]
 
 
 
