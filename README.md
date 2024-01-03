@@ -49,6 +49,11 @@
     <br>
     <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/2e66d60a-fb48-4b8e-9849-d2ec35155b3b">
 
+13. [Microsoft Virtual Training Day](https://events.microsoft.com/)
+    <br>
+    <img width="450" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/577f59a0-6376-46ef-aca3-e5d4e11cc4d9">
+
+
 _Last updated 3rd Jan 2024_
 
 <img width="150" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/278b9df5-8e3f-4fd6-82d8-3e6761979a83">
